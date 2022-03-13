@@ -65,6 +65,22 @@ function App() {
           url: "https://solless.mypinata.cloud/ipfs/Qma3mdd9wXFz6XV9zxxZLEiEhs2sFWV5WZVVBxbJ84V5So/5.png",
             param: "handleMint('https://solless.mypinata.cloud/ipfs/QmS7dVJU6XiR4fH7hfCj5tKtxssNf4oE85evZXAZtCsvkz/1')",
         },
+        {
+          url: "https://solless.mypinata.cloud/ipfs/QmYe881E52m1twk5kzKkC98XVEPyrmb8n14YEeiKCVnoGA/6.png",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmfVPUaNBL4FGAVbTWq4KfqNUntfYne5wtN8xzJ13o51oA/6')",
+        },
+        {
+          url: "https://solless.mypinata.cloud/ipfs/QmYe881E52m1twk5kzKkC98XVEPyrmb8n14YEeiKCVnoGA/7.png",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmfVPUaNBL4FGAVbTWq4KfqNUntfYne5wtN8xzJ13o51oA/7')",
+        },
+        {
+          url: "https://solless.mypinata.cloud/ipfs/QmYe881E52m1twk5kzKkC98XVEPyrmb8n14YEeiKCVnoGA/8.png",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmfVPUaNBL4FGAVbTWq4KfqNUntfYne5wtN8xzJ13o51oA/8')",
+        },
+        {
+          url: "https://solless.mypinata.cloud/ipfs/QmYe881E52m1twk5kzKkC98XVEPyrmb8n14YEeiKCVnoGA/9.png",
+            param: "handleMint('https://solless.mypinata.cloud/ipfs/QmfVPUaNBL4FGAVbTWq4KfqNUntfYne5wtN8xzJ13o51oA/9')",
+        },
     ];
  
     async function withdrawMoney(){
