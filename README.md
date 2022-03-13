@@ -1,76 +1,16 @@
-# Dspyt-NFTs (ipfs-gallery)
+# buildspace DNS starter project
 
-## Category
+### **Welcome 👋**
 
-Application
+To get started with this course, clone this repo and follow these commands:
 
-## Project Description
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+3. Start coding!
 
-An interactive web application built with ReactJS to upload and view images. The application interacts with Filecoin and IPFS. In particular, nft.storage provides an api access for the application to store files.
-
-Further we consider to add minting NFTs in the application.
-
-## Project Status
-
-Under development in [Encode Filecoin Accelerator](https://medium.com/encode-club/announcing-the-encode-filecoin-accelerator-c55f09264e8c)
-
-### Plans
-
-* Extend IPFS storage to web3.storage
-* Mint uploaded images
-* Add Machine Learning Algorithm that will create metadata
-
-## Previews
-
-[NFT hack 2022 || ETHGlobal](https://showcase.ethglobal.com/nfthack2022/dspyt-nfts)
-
-[Live Demo](https://file-coin-mint.vercel.app/)
-
-## Target Audience
-
-NFT projects
-
-## Rough estimated user base (if applicable)
-<!--How many users do you have right now?-->
-
-## Github repo
-
-[Dspyt-NFTs](https://github.com/dspytdao/Dspyt-NFTs)
-
-## Website
-
-[Live Demo](https://file-coin-mint.vercel.app/)
+### What is the `.vscode` Folder?
+If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
 
 
-## Docs
-
-[Docs](https://github.com/dspytdao/Dspyt-NFTs/blob/main/dspyt/README.md)
-
-## Team Info
-
-### Team Size  
-
-3
-### Team members  
-
-[DspytDAO](https://twitter.com/DspytDAO)
-
-[Pavel Fedotov](https://github.com/Pfed-prog)
-
-[Grigore Gabriel Trifan](https://github.com/TheSlayer-666)
-
-## How the community can engage
-
-[GitHub Filecoin Discussion](https://github.com/filecoin-project/community/discussions/466)
-
-[GitHub IPFS Discussion](https://github.com/ipfs/community/discussions/738)
-
-[Twitter](https://twitter.com/DspytDAO)
-
-[Discord](https://discord.gg/peRHyNZrss)
-
-## How to Contribute
-
-Contact us on Social Media and/or open an Issue on GitHub
-
-We really appreciate your feedback
+### **Questions?**
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
